@@ -1,5 +1,5 @@
 # Lending Club Case Study
-> To identiify the variables which are strong indicators of default and potentially use the insights for its portfolio and risk assessment.
+> To identify the variables which are strong indicators of default and potentially use the insights for its portfolio and risk assessment.
 
 
 ## Table of Contents
