@@ -37,7 +37,7 @@
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-This project was done as a part of course study. I would like to thank Upgrad for providing the datset and the necessary resources for the comletion of this study.
+This project was done as a part of course study. I would like to thank Upgrad for providing the dataset and the necessary resources for the comletion of this study.
 
 
 ## Contact
