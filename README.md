@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
+> To identiify the variables which are strong indicators of default and potentially use the insights for its portfolio and risk assessment.
 
 
 ## Table of Contents
@@ -11,38 +11,37 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- Lending club is the largest peer-to-peer marketplace connecting borrowers with lenders. Borrowers apply through an online platform where they are assigned an internal score.
+- Some popular products are credit card loans, debt consolidation loans, house loans, car loans, etc.
+- For this we will be using the loan dataset provided to identify the variables which might help us for better decision making for loan lending.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Strong variables that can be used for predicting a loan getting defaulted are as listed:
+1. Grade
+2. Purpose
+3. Interest Rate
+4. Annual Incomne
+5. Instalment
+6. Year
+7. Term
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Jupyter Notebook
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+This project was done as a part of course study. I would like to thank Upgrad for providing the datset and the necessary resources for the comletion of this study.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@arunperi91] - feel free to contact me!
 
 
 <!-- Optional -->
